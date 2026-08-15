@@ -256,3 +256,15 @@ Passagem de fiação — dois ou três rasgos oblongos entre a região dos motor
 Acesso ao USB e ao reset — o Arduino está com a lateral esquerda a 5 mm da borda; confiram se o conector USB fica acessível ou girem a placa 180°.
 Legenda numerada casando com os IDs da ficha de requisitos.
 A escala aqui é 1,9 px/mm, então o desenho não está em escala de impressão. Para o entregável, refaçam em escala 1:1 ou 1:2 no Fusion 360, Inkscape ou até no Figma — qualquer um exporta DXF, que é o formato que a cortadora a laser do lab pede.
+
+## 8. Componentes - dimensões
+
+
+| Componente     | Comprimento | Largura | Altura | Forma de Fixação |
+| -------------- | ----------- | ------- | ------ | ---------------- |
+| Motor Esquerdo | 68,9        | 17,1    | 21,5   |                  |
+| Motor direito  | 68,9        | 17,1    | 21,5   |                  |
+| Arduino/ESP32  | 50,7        | 27,6    | 11,1   |                  |
+| Ponte H        | 41,3        | 41,3    | 25,6   |                  |
+| Bateria        | 74,05       | 20,7    | 20,8   |                  |
+| Sensor         | 44,6        | 19,1    | 14,4   |                  |
