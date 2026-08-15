@@ -238,3 +238,21 @@ o calendário da disciplina.
 - Vida de Silício — https://vidadesilicio.com.br/
 - Saravati — https://www.saravati.com.br/
 - Mamute Eletrônica — https://www.mamuteeletronica.com.br/
+
+!["croqui"](image.png)
+
+As decisões de projeto por trás desse layout, que vocês podem copiar direto para a coluna "Justificativa" da ficha:
+Bateria sobre o eixo motriz. O suporte de 4× AA é o item mais pesado (~110 g com as pilhas) e está posicionado entre Y=145 e Y=203 mm, exatamente sobre a linha dos motores. Isso joga o centro de massa em cima das rodas de tração e evita que o carrinho patine na partida ou empine ao frear.
+Roda boba na frente, motores atrás. Como o peso está atrás, a roda boba fica descarregada — ela só apoia, não sustenta. É por isso que ela pode ser pequena (Ø 30 mm) sem comprometer a estabilidade.
+HC-06 no lado oposto ao L298N. A ponte H chaveia corrente nos motores e gera ruído eletromagnético; o módulo Bluetooth é o componente mais sensível a isso. Separá-los diagonalmente é praticamente de graça no croqui e evita queda de conexão durante a locomoção.
+Sensor na borda frontal, sem parafuso à frente. O HC-SR04 tem cone de detecção de 15°. Qualquer parafuso ou espaçador na frente dele vira eco falso.
+
+O que ainda falta vocês acrescentarem antes de entregar:
+Cotas de furação — a posição de cada furo M3 medida a partir de uma referência única (canto frontal esquerdo, por exemplo). Deixei os 4 furos do Arduino indicados como circunferências, mas sem cota. Essa é a informação que efetivamente permite cortar a peça.
+Recorte do eixo dos motores — os eixos atravessam a lateral da base. Marquem a fenda ou o rebaixo.
+Vista lateral — mostra a altura livre do solo (~15 a 20 mm com roda de 65 mm e motor sob a chapa) e a altura total da pilha de componentes.
+
+Passagem de fiação — dois ou três rasgos oblongos entre a região dos motores e a ponte H.
+Acesso ao USB e ao reset — o Arduino está com a lateral esquerda a 5 mm da borda; confiram se o conector USB fica acessível ou girem a placa 180°.
+Legenda numerada casando com os IDs da ficha de requisitos.
+A escala aqui é 1,9 px/mm, então o desenho não está em escala de impressão. Para o entregável, refaçam em escala 1:1 ou 1:2 no Fusion 360, Inkscape ou até no Figma — qualquer um exporta DXF, que é o formato que a cortadora a laser do lab pede.
