@@ -14,7 +14,7 @@
 | RF04 | Detectar obstáculos à frente com um sensor | ✅ HC-SR04 |
 | RF05 | Parar sozinho antes de colidir (limite de 15 cm) | ✅ |
 | RF06 | Recusar o comando "frente" enquanto houver obstáculo | ✅ |
-| RF07 | Emitir alerta sonoro ao detectar obstáculo | ⚠️ ver [T9](05-testes-e-resultados.md#t9--buzzer) |
+| RF07 | Emitir alerta sonoro ao detectar obstáculo | ✅ ([T9](05-testes-e-resultados.md#t9--buzzer)) |
 | RF08 | Enviar a distância medida para o celular | ✅ |
 
 ### Requisitos não funcionais
@@ -65,7 +65,7 @@ Além do MVP: alerta sonoro, envio da distância para o app, filtro das leituras
 | 8 | Alimentação por bateria | Alta | ✅ |
 | 9 | Corrigir falhas intermitentes dos motores | Alta | ✅ |
 | 10 | Filtrar leituras falsas do sensor | Média | ✅ |
-| 11 | Buzzer de alerta | Média | ⚠️ em verificação |
+| 11 | Buzzer de alerta | Média | ✅ |
 | 12 | Enviar distância para o app | Baixa | ✅ |
 | 13 | Compensar diferença de velocidade entre as rodas | Baixa | ❌ testado e descartado |
 | 14 | Versão com app Dabble | Baixa | ✅ alternativa |

@@ -15,7 +15,7 @@ Resumo dos testes feitos, problemas encontrados e correções. Os códigos de te
 | [T6 — Funcionamento só com bateria](#t6--funcionamento-só-com-bateria) | 18/09/2026 | ✅ |
 | [T7 — Desvio lateral e controle de velocidade](#t7--desvio-lateral-e-controle-de-velocidade) | 18/09/2026 | ⚠️ PWM descartado, pequeno desvio aceito |
 | [T8 — Versão com app Dabble](#t8--versão-com-app-dabble) | 18/09/2026 | ✅ criada como alternativa |
-| [T9 — Buzzer](#t9--buzzer) | 18/09/2026 | ⚠️ em verificação |
+| [T9 — Buzzer](#t9--buzzer) | 18/09/2026 | ✅ funcionando |
 
 ---
 
@@ -192,7 +192,7 @@ Criada a versão [`carrinho_dabble`](../code/carrinho_dabble/carrinho_dabble.ino
 | só no 2 | buzzer passivo → usar `tone()` no código |
 | nenhum | ligação: + no D2, − no GND, polaridade (perna longa no +) |
 
-**Resultado:** PREENCHER
+**Resultado:** ✅ buzzer funcionando.
 
 ---
 
@@ -206,5 +206,5 @@ Criada a versão [`carrinho_dabble`](../code/carrinho_dabble/carrinho_dabble.ino
 | Bloqueio de avanço com obstáculo | ✅ |
 | Alimentação por bateria | ✅ |
 | Estabilidade (sem falhas intermitentes) | ✅ após T1 e T4 |
-| Alerta sonoro | ⚠️ T9 |
+| Alerta sonoro | ✅ |
 | Trajetória reta | ⚠️ pequeno desvio (T7) |
