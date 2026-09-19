@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="540" viewBox="0 0 680 540" role="img">
+<title>Alimentação e motores do carrinho</title>
+<desc>Arduino ligado ao L298N pelos pinos D8, D7, D6 e D4 nos pinos IN1 a IN4. Quatro pilhas AA no borne 12V e GND do L298N. GND do Arduino ligado direto no borne GND do L298N, junto com o negativo das pilhas. Bateria 9V no jack do Arduino. Motor A em OUT1 e OUT2, motor B em OUT3 e OUT4.</desc>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; dominant-baseline: central; }
+.th { font-size: 14px; font-weight: bold; }
+.ts { font-size: 12px; }
+.mid { text-anchor: middle; }
+.end { text-anchor: end; }
+.placa rect { fill: #E1F5EE; stroke: #0F6E56; }
+.placa text { fill: #085041; }
+.energia rect { fill: #FAECE7; stroke: #993C1D; }
+.energia text { fill: #712B13; }
+.peca rect { fill: #F1EFE8; stroke: #5F5E5A; }
+.peca text { fill: #2C2C2A; }
+.nota { fill: #444441; }
+</style>
+<rect width="680" height="540" fill="#FFFFFF"/>
+<text class="th" x="340" y="18" style="text-anchor:middle;fill:#2C2C2A">Alimentação e motores</text>
+<g stroke-width="2" fill="none">
+<line x1="410" y1="96" x2="410" y2="140" stroke="#BA7517"/>
+<line x1="450" y1="96" x2="450" y2="140" stroke="#BA7517"/>
+<line x1="550" y1="96" x2="550" y2="140" stroke="#BA7517"/>
+<line x1="590" y1="96" x2="590" y2="140" stroke="#BA7517"/>
+<line x1="230" y1="175" x2="370" y2="175" stroke="#7F77DD"/>
+<line x1="230" y1="200" x2="370" y2="200" stroke="#7F77DD"/>
+<line x1="230" y1="225" x2="370" y2="225" stroke="#7F77DD"/>
+<line x1="230" y1="250" x2="370" y2="250" stroke="#7F77DD"/>
+<path d="M230 300 H330 V350 H420 V300" stroke="#5F5E5A"/>
+<line x1="420" y1="400" x2="420" y2="350" stroke="#5F5E5A"/>
+<line x1="480" y1="400" x2="480" y2="300" stroke="#E24B4A"/>
+<line x1="120" y1="400" x2="120" y2="340" stroke="#E24B4A"/>
+<line x1="150" y1="400" x2="150" y2="340" stroke="#5F5E5A"/>
+</g>
+<circle cx="420" cy="350" r="4" fill="#5F5E5A"/>
+<text class="ts nota" x="244" y="372">GND comum no borne</text>
+<g class="placa">
+<rect x="40" y="140" width="190" height="200" rx="8"/>
+<text class="th mid" x="110" y="230">Arduino Uno</text>
+<text class="ts end" x="218" y="175">D8</text>
+<text class="ts end" x="218" y="200">D7</text>
+<text class="ts end" x="218" y="225">D6</text>
+<text class="ts end" x="218" y="250">D4</text>
+<text class="ts end" x="218" y="300">GND</text>
+<text class="ts mid" x="135" y="322">jack P4</text>
+</g>
+<g class="placa">
+<rect x="370" y="140" width="260" height="160" rx="8"/>
+<text class="th mid" x="520" y="200">Ponte H L298N</text>
+<text class="ts mid" x="520" y="222">ENA e ENB com jumper</text>
+<text class="ts mid" x="410" y="156">OUT1</text>
+<text class="ts mid" x="450" y="156">OUT2</text>
+<text class="ts mid" x="550" y="156">OUT3</text>
+<text class="ts mid" x="590" y="156">OUT4</text>
+<text class="ts" x="382" y="175">IN1</text>
+<text class="ts" x="382" y="200">IN2</text>
+<text class="ts" x="382" y="225">IN3</text>
+<text class="ts" x="382" y="250">IN4</text>
+<text class="ts mid" x="420" y="284">GND</text>
+<text class="ts mid" x="480" y="284">12V</text>
+<text class="ts mid" x="540" y="284">5V</text>
+</g>
+<g class="peca">
+<rect x="370" y="40" width="120" height="56" rx="8"/>
+<text class="th mid" x="430" y="58">Motor A</text>
+<text class="ts mid" x="430" y="78">roda esquerda</text>
+</g>
+<g class="peca">
+<rect x="510" y="40" width="120" height="56" rx="8"/>
+<text class="th mid" x="570" y="58">Motor B</text>
+<text class="ts mid" x="570" y="78">roda direita</text>
+</g>
+<g class="energia">
+<rect x="60" y="400" width="150" height="56" rx="8"/>
+<text class="th mid" x="135" y="418">Bateria 9V</text>
+<text class="ts mid" x="135" y="438">só o Arduino</text>
+</g>
+<g class="energia">
+<rect x="390" y="400" width="180" height="56" rx="8"/>
+<text class="th mid" x="480" y="418">4 pilhas AA (6V)</text>
+<text class="ts mid" x="480" y="438">só a ponte H</text>
+</g>
+<g stroke-width="3">
+<line x1="40" y1="500" x2="64" y2="500" stroke="#E24B4A"/>
+<line x1="170" y1="500" x2="194" y2="500" stroke="#5F5E5A"/>
+<line x1="340" y1="500" x2="364" y2="500" stroke="#7F77DD"/>
+<line x1="450" y1="500" x2="474" y2="500" stroke="#BA7517"/>
+</g>
+<text class="ts nota" x="72" y="500">positivo</text>
+<text class="ts nota" x="202" y="500">GND (negativo)</text>
+<text class="ts nota" x="372" y="500">sinal</text>
+<text class="ts nota" x="482" y="500">fio do motor</text>
+</svg>

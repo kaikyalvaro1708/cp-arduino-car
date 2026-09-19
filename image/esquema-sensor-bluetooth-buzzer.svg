@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="440" viewBox="0 0 680 440" role="img">
+<title>Sensor, Bluetooth e buzzer do carrinho</title>
+<desc>O 5V e o GND do Arduino vão para as trilhas da mini protoboard, que alimentam o HC-SR04, o HC-05 e o buzzer. TRIG no D12, ECHO no D13, TX do HC-05 no D10, RX do HC-05 no D11 com divisor de tensão, buzzer no D2.</desc>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; dominant-baseline: central; }
+.th { font-size: 14px; font-weight: bold; }
+.ts { font-size: 12px; }
+.mid { text-anchor: middle; }
+.end { text-anchor: end; }
+.placa rect { fill: #E1F5EE; stroke: #0F6E56; }
+.placa text { fill: #085041; }
+.peca rect { fill: #F1EFE8; stroke: #5F5E5A; }
+.peca text { fill: #2C2C2A; }
+.nota { fill: #444441; }
+</style>
+<rect width="680" height="440" fill="#FFFFFF"/>
+<text class="th" x="340" y="18" style="text-anchor:middle;fill:#2C2C2A">Sensor, Bluetooth e buzzer</text>
+<g class="peca">
+<rect x="240" y="40" width="400" height="110" rx="8"/>
+<text class="th" x="250" y="58">Mini protoboard (fundo isolado)</text>
+<text class="ts" x="250" y="78">+5V</text>
+<text class="ts" x="250" y="112">GND</text>
+</g>
+<g fill="none">
+<line x1="200" y1="94" x2="240" y2="94" stroke="#E24B4A" stroke-width="2"/>
+<line x1="240" y1="94" x2="440" y2="94" stroke="#E24B4A" stroke-width="4"/>
+<line x1="200" y1="128" x2="240" y2="128" stroke="#5F5E5A" stroke-width="2"/>
+<line x1="240" y1="128" x2="630" y2="128" stroke="#5F5E5A" stroke-width="4"/>
+<path d="M300 94 V122 A6 6 0 0 1 300 134 V200" stroke="#E24B4A" stroke-width="2"/>
+<line x1="360" y1="128" x2="360" y2="200" stroke="#5F5E5A" stroke-width="2"/>
+<path d="M420 94 V122 A6 6 0 0 1 420 134 V200" stroke="#E24B4A" stroke-width="2"/>
+<line x1="500" y1="128" x2="500" y2="200" stroke="#5F5E5A" stroke-width="2"/>
+<line x1="620" y1="128" x2="620" y2="200" stroke="#5F5E5A" stroke-width="2"/>
+<line x1="200" y1="240" x2="260" y2="240" stroke="#7F77DD" stroke-width="2"/>
+<line x1="200" y1="264" x2="260" y2="264" stroke="#7F77DD" stroke-width="2"/>
+<path d="M200 300 H440 V280" stroke="#7F77DD" stroke-width="2"/>
+<line x1="200" y1="322" x2="290" y2="322" stroke="#7F77DD" stroke-width="2"/>
+<path d="M400 322 H480 V280" stroke="#7F77DD" stroke-width="2"/>
+<path d="M200 344 H580 V280" stroke="#7F77DD" stroke-width="2"/>
+</g>
+<circle cx="300" cy="94" r="4" fill="#E24B4A"/>
+<circle cx="420" cy="94" r="4" fill="#E24B4A"/>
+<circle cx="360" cy="128" r="4" fill="#5F5E5A"/>
+<circle cx="500" cy="128" r="4" fill="#5F5E5A"/>
+<circle cx="620" cy="128" r="4" fill="#5F5E5A"/>
+<g class="peca">
+<rect x="290" y="312" width="110" height="20" rx="4"/>
+<text class="ts mid" x="345" y="322">divisor 1k/2k</text>
+</g>
+<g class="placa">
+<rect x="40" y="40" width="160" height="320" rx="8"/>
+<text class="th mid" x="110" y="190">Arduino Uno</text>
+<text class="ts end" x="190" y="94">5V</text>
+<text class="ts end" x="190" y="128">GND</text>
+<text class="ts end" x="190" y="240">D12</text>
+<text class="ts end" x="190" y="264">D13</text>
+<text class="ts end" x="190" y="300">D10</text>
+<text class="ts end" x="190" y="322">D11</text>
+<text class="ts end" x="190" y="344">D2</text>
+</g>
+<g class="peca">
+<rect x="260" y="200" width="120" height="80" rx="8"/>
+<text class="ts mid" x="300" y="214">VCC</text>
+<text class="ts mid" x="360" y="214">GND</text>
+<text class="ts" x="268" y="240">TRIG</text>
+<text class="ts" x="268" y="264">ECHO</text>
+<text class="th mid" x="345" y="252">HC-SR04</text>
+</g>
+<g class="peca">
+<rect x="400" y="200" width="120" height="80" rx="8"/>
+<text class="ts mid" x="420" y="214">VCC</text>
+<text class="ts mid" x="500" y="214">GND</text>
+<text class="th mid" x="460" y="240">HC-05</text>
+<text class="ts mid" x="440" y="266">TX</text>
+<text class="ts mid" x="480" y="266">RX</text>
+</g>
+<g class="peca">
+<rect x="540" y="200" width="100" height="80" rx="8"/>
+<text class="ts mid" x="620" y="214">GND</text>
+<text class="th mid" x="590" y="240">Buzzer</text>
+<text class="ts mid" x="580" y="266">+</text>
+</g>
+<g stroke-width="3">
+<line x1="40" y1="400" x2="64" y2="400" stroke="#E24B4A"/>
+<line x1="140" y1="400" x2="164" y2="400" stroke="#5F5E5A"/>
+<line x1="240" y1="400" x2="264" y2="400" stroke="#7F77DD"/>
+</g>
+<text class="ts nota" x="72" y="400">+5V</text>
+<text class="ts nota" x="172" y="400">GND</text>
+<text class="ts nota" x="272" y="400">sinal</text>
+<circle cx="350" cy="400" r="4" fill="#5F5E5A"/>
+<text class="ts nota" x="362" y="400">ponto = ligado</text>
+<path d="M480 400 H488 A6 6 0 0 1 500 400 H508" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text class="ts nota" x="516" y="400">curva = só cruza</text>
+</svg>
