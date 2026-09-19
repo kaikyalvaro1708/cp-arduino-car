@@ -38,11 +38,6 @@ O projeto começou com um **protótipo em ESP32 controlado por Wi-Fi** (21/08) e
 - **Telemetria**: distância enviada ao app a cada 300 ms.
 - **Alimentação por bateria**, sem depender do cabo USB.
 
-## 📷 Carrinho finalizado
-
-<!-- PREENCHER: salve a foto do carrinho pronto em image/carrinho-finalizado.jpg -->
-<img src="image/carrinho-finalizado.jpg" width="480" alt="Carrinho finalizado">
-
 ## 🕹️ Como usar (resumo)
 
 1. Ligue as pilhas da ponte H e a bateria 9 V do Arduino.
