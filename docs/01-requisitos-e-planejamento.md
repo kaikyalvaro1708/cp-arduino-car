@@ -113,6 +113,8 @@ Além do MVP: alerta sonoro, envio da distância para o app, filtro das leituras
 | v2.2 | 18/09/2026 | Uma medição por ciclo, `pulseInLong()`, filtro de **mediana** |
 | v2.3 | 18/09/2026 | Teste de controle de velocidade por PWM — **revertido** |
 | v2.4 | 18/09/2026 | Versão alternativa com app **Dabble** |
-| **v3 (final)** | 18/09/2026 | App serial, motores em velocidade máxima, código reorganizado e comentado |
+| **v3 (final do Check Point 01)** | 18/09/2026 | App serial, motores em velocidade máxima, código reorganizado e comentado |
+| v4 | 23–24/09/2026 | Volta para a **ESP32**: ligação da ponte H, teste dos motores e controle de **PS4** (Bluepad32) no estilo de jogo de corrida, com luz e vibração no controle; alternativas por Bluetooth clássico e Wi-Fi — ver [versão 2](07-versao-esp32-ps4.md) |
+| **v5** | 24/09/2026 | **TinyML**: modelo do Edge Impulse classifica a distância (perto, médio, longe) dentro da ESP32 e bloqueia a frente com obstáculo perto — ver [TinyML](08-tinyml.md) |
 
 Detalhes de cada problema e correção em [Testes e resultados](05-testes-e-resultados.md).
