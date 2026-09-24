@@ -1,0 +1,395 @@
+dist=  36.2 cm | feature=0.1726 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 1 ms
+dist=  36.5 cm | feature=0.1743 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  36.5 cm | feature=0.1741 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  36.3 cm | feature=0.1732 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  36.1 cm | feature=0.1721 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  35.7 cm | feature=0.1700 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  35.1 cm | feature=0.1671 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  34.7 cm | feature=0.1650 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  34.2 cm | feature=0.1627 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  33.6 cm | feature=0.1595 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  32.9 cm | feature=0.1559 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  32.3 cm | feature=0.1528 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  31.5 cm | feature=0.1490 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  30.8 cm | feature=0.1455 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  30.3 cm | feature=0.1428 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  29.8 cm | feature=0.1405 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  29.3 cm | feature=0.1376 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  28.9 cm | feature=0.1358 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  28.4 cm | feature=0.1332 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  27.9 cm | feature=0.1306 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  27.4 cm | feature=0.1284 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  27.1 cm | feature=0.1268 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  26.7 cm | feature=0.1246 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  26.3 cm | feature=0.1229 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  25.9 cm | feature=0.1208 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  25.4 cm | feature=0.1182 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  24.9 cm | feature=0.1159 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  24.4 cm | feature=0.1131 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  23.7 cm | feature=0.1097 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  23.2 cm | feature=0.1072 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  22.6 cm | feature=0.1043 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=100.0% | 0 ms
+dist=  22.1 cm | feature=0.1014 | modelo=PERTO ( 50%) | regra=MEDIO | DIFF | concordancia=96.9% | 0 ms
+dist=  21.6 cm | feature=0.0991 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=93.9% | 0 ms
+dist=  21.3 cm | feature=0.0974 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=91.2% | 0 ms
+dist=  20.8 cm | feature=0.0949 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=88.6% | 0 ms
+dist=  20.5 cm | feature=0.0934 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=86.1% | 0 ms
+dist=  20.1 cm | feature=0.0915 | modelo=PERTO ( 78%) | regra=MEDIO | DIFF | concordancia=83.8% | 0 ms
+dist=  19.7 cm | feature=0.0893 | modelo=PERTO ( 78%) | regra=PERTO | OK   | concordancia=84.2% | 0 ms
+dist=  19.3 cm | feature=0.0876 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=84.6% | 0 ms
+dist=  19.2 cm | feature=0.0868 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=85.0% | 0 ms
+dist=  18.8 cm | feature=0.0851 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=85.4% | 0 ms
+dist=  18.6 cm | feature=0.0838 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=85.7% | 0 ms
+dist=  18.4 cm | feature=0.0828 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=86.0% | 0 ms
+dist=  18.1 cm | feature=0.0813 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=86.4% | 0 ms
+dist=  17.7 cm | feature=0.0795 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=86.7% | 0 ms
+dist=  17.4 cm | feature=0.0777 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=87.0% | 0 ms
+dist=  17.1 cm | feature=0.0761 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=87.2% | 0 ms
+dist=  16.7 cm | feature=0.0742 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=87.5% | 0 ms
+dist=  16.3 cm | feature=0.0724 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=87.8% | 0 ms
+dist=  16.0 cm | feature=0.0706 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=88.0% | 0 ms
+dist=  15.7 cm | feature=0.0692 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=88.2% | 0 ms
+dist=  15.2 cm | feature=0.0669 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=88.5% | 0 ms
+dist=  14.9 cm | feature=0.0651 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=88.7% | 0 ms
+dist=  14.5 cm | feature=0.0632 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=88.9% | 0 ms
+dist=  14.1 cm | feature=0.0611 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=89.1% | 0 ms
+dist=  13.7 cm | feature=0.0589 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=89.3% | 0 ms
+dist=  13.3 cm | feature=0.0571 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=89.5% | 0 ms
+dist=  12.8 cm | feature=0.0548 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=89.7% | 0 ms
+dist=  12.4 cm | feature=0.0523 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=89.8% | 0 ms
+dist=  11.8 cm | feature=0.0497 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=90.0% | 0 ms
+dist=  11.4 cm | feature=0.0474 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=90.2% | 0 ms
+dist=  11.4 cm | feature=0.0477 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=90.3% | 0 ms
+dist=  11.4 cm | feature=0.0475 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=90.5% | 0 ms
+dist=  11.7 cm | feature=0.0491 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=90.6% | 0 ms
+dist=  12.1 cm | feature=0.0512 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=90.8% | 0 ms
+dist=  12.7 cm | feature=0.0538 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=90.9% | 0 ms
+dist=  12.8 cm | feature=0.0547 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=91.0% | 0 ms
+dist=  12.8 cm | feature=0.0543 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=91.2% | 0 ms
+dist=  12.5 cm | feature=0.0529 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=91.3% | 0 ms
+dist=  12.0 cm | feature=0.0507 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=91.4% | 0 ms
+dist=  11.7 cm | feature=0.0489 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=91.5% | 0 ms
+dist=  11.4 cm | feature=0.0474 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=91.7% | 0 ms
+dist=  11.6 cm | feature=0.0483 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=91.8% | 0 ms
+dist=  11.8 cm | feature=0.0493 | modelo=PERTO (100%) | regra=PERTO | OK   | concordancia=91.9% | 0 ms
+dist=  12.1 cm | feature=0.0511 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.0% | 0 ms
+dist=  12.3 cm | feature=0.0519 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.1% | 0 ms
+dist=  12.2 cm | feature=0.0514 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.2% | 0 ms
+dist=  12.2 cm | feature=0.0515 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.3% | 0 ms
+dist=  12.3 cm | feature=0.0518 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.4% | 0 ms
+dist=  12.3 cm | feature=0.0521 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.5% | 0 ms
+dist=  12.5 cm | feature=0.0532 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.6% | 0 ms
+dist=  12.9 cm | feature=0.0550 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.7% | 0 ms
+dist=  13.1 cm | feature=0.0562 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.8% | 0 ms
+dist=  13.3 cm | feature=0.0573 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.9% | 0 ms
+dist=  13.6 cm | feature=0.0588 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.9% | 0 ms
+dist=  13.7 cm | feature=0.0593 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=93.0% | 0 ms
+dist=  14.0 cm | feature=0.0607 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=93.1% | 0 ms
+dist=  14.2 cm | feature=0.0617 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=93.2% | 0 ms
+dist=  14.4 cm | feature=0.0628 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=93.3% | 0 ms
+dist=  14.6 cm | feature=0.0639 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=93.3% | 0 ms
+dist=  14.9 cm | feature=0.0654 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=93.4% | 0 ms
+dist=  15.1 cm | feature=0.0660 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=93.5% | 0 ms
+dist=  15.3 cm | feature=0.0669 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=93.5% | 0 ms
+dist=  15.4 cm | feature=0.0679 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=93.6% | 0 ms
+dist=  15.7 cm | feature=0.0693 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=93.7% | 0 ms
+dist=  16.0 cm | feature=0.0708 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=93.8% | 0 ms
+dist=  16.3 cm | feature=0.0723 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=93.8% | 0 ms
+dist=  16.6 cm | feature=0.0738 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=93.9% | 0 ms
+dist=  16.9 cm | feature=0.0752 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=93.9% | 0 ms
+dist=  17.0 cm | feature=0.0760 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=94.0% | 0 ms
+dist=  17.2 cm | feature=0.0767 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=94.1% | 0 ms
+dist=  17.4 cm | feature=0.0778 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=94.1% | 0 ms
+dist=  17.6 cm | feature=0.0788 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=94.2% | 0 ms
+dist=  17.8 cm | feature=0.0798 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=94.2% | 0 ms
+dist=  18.0 cm | feature=0.0808 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=94.3% | 0 ms
+dist=  18.2 cm | feature=0.0818 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=94.3% | 0 ms
+dist=  18.4 cm | feature=0.0829 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=94.4% | 0 ms
+dist=  18.5 cm | feature=0.0836 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=94.4% | 0 ms
+dist=  18.8 cm | feature=0.0847 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=94.5% | 0 ms
+dist=  19.0 cm | feature=0.0857 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=94.5% | 0 ms
+dist=  19.3 cm | feature=0.0872 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=94.6% | 0 ms
+dist=  19.6 cm | feature=0.0887 | modelo=PERTO ( 78%) | regra=PERTO | OK   | concordancia=94.6% | 0 ms
+dist=  19.9 cm | feature=0.0902 | modelo=PERTO ( 78%) | regra=PERTO | OK   | concordancia=94.7% | 0 ms
+dist=  20.0 cm | feature=0.0910 | modelo=PERTO ( 78%) | regra=MEDIO | DIFF | concordancia=93.9% | 0 ms
+dist=  20.3 cm | feature=0.0922 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=93.0% | 0 ms
+dist=  20.4 cm | feature=0.0931 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=92.2% | 0 ms
+dist=  20.6 cm | feature=0.0937 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=91.5% | 0 ms
+dist=  20.9 cm | feature=0.0954 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=90.7% | 0 ms
+dist=  21.2 cm | feature=0.0971 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=89.9% | 0 ms
+dist=  21.5 cm | feature=0.0985 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=89.2% | 0 ms
+dist=  21.9 cm | feature=0.1005 | modelo=PERTO ( 50%) | regra=MEDIO | DIFF | concordancia=88.4% | 0 ms
+dist=  22.4 cm | feature=0.1031 | modelo=PERTO ( 50%) | regra=MEDIO | DIFF | concordancia=87.7% | 0 ms
+dist=  22.7 cm | feature=0.1047 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=87.8% | 0 ms
+dist=  23.3 cm | feature=0.1073 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=87.9% | 0 ms
+dist=  23.8 cm | feature=0.1102 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=88.0% | 0 ms
+dist=  24.3 cm | feature=0.1125 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=88.1% | 0 ms
+dist=  24.7 cm | feature=0.1149 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=88.2% | 0 ms
+dist=  25.2 cm | feature=0.1171 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=88.3% | 0 ms
+dist=  25.6 cm | feature=0.1193 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=88.4% | 0 ms
+dist=  25.9 cm | feature=0.1208 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=88.5% | 0 ms
+dist=  26.2 cm | feature=0.1222 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=88.5% | 0 ms
+dist=  26.7 cm | feature=0.1249 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=88.6% | 0 ms
+dist=  27.2 cm | feature=0.1272 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=88.7% | 0 ms
+dist=  27.5 cm | feature=0.1287 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=88.8% | 0 ms
+dist=  27.8 cm | feature=0.1305 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=88.9% | 0 ms
+dist=  28.4 cm | feature=0.1333 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=89.0% | 0 ms
+dist=  28.4 cm | feature=0.1335 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=89.1% | 0 ms
+dist=  28.7 cm | feature=0.1349 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=89.1% | 0 ms
+dist=  29.0 cm | feature=0.1363 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=89.2% | 0 ms
+dist=  29.4 cm | feature=0.1386 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=89.3% | 0 ms
+dist=  29.8 cm | feature=0.1403 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=89.4% | 0 ms
+dist=  30.2 cm | feature=0.1423 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=89.4% | 0 ms
+dist=  30.7 cm | feature=0.1448 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=89.5% | 0 ms
+dist=  31.3 cm | feature=0.1477 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=89.6% | 0 ms
+dist=  31.7 cm | feature=0.1498 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=89.7% | 0 ms
+dist=  32.0 cm | feature=0.1513 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=89.7% | 0 ms
+dist=  32.5 cm | feature=0.1543 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=89.8% | 0 ms
+dist=  32.9 cm | feature=0.1560 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=89.9% | 0 ms
+dist=  33.3 cm | feature=0.1579 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=89.9% | 0 ms
+dist=  33.6 cm | feature=0.1598 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.0% | 0 ms
+dist=  34.2 cm | feature=0.1626 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.1% | 0 ms
+dist=  34.7 cm | feature=0.1651 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.1% | 0 ms
+dist=  35.3 cm | feature=0.1680 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.2% | 0 ms
+dist=  35.5 cm | feature=0.1690 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.3% | 0 ms
+dist=  35.6 cm | feature=0.1697 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.3% | 0 ms
+dist=  35.9 cm | feature=0.1711 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.4% | 0 ms
+dist=  36.1 cm | feature=0.1724 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.4% | 0 ms
+dist=  36.3 cm | feature=0.1735 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.5% | 0 ms
+dist=  36.9 cm | feature=0.1763 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.6% | 0 ms
+dist=  37.7 cm | feature=0.1802 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.6% | 0 ms
+dist=  38.2 cm | feature=0.1828 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.7% | 0 ms
+dist=  38.9 cm | feature=0.1864 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.7% | 0 ms
+dist=  39.4 cm | feature=0.1891 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.8% | 0 ms
+dist=  40.1 cm | feature=0.1925 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.9% | 0 ms
+dist=  40.6 cm | feature=0.1950 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=90.9% | 0 ms
+dist=  41.1 cm | feature=0.1973 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.0% | 0 ms
+dist=  41.4 cm | feature=0.1990 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.0% | 0 ms
+dist=  41.9 cm | feature=0.2014 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.1% | 0 ms
+dist=  42.3 cm | feature=0.2034 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.1% | 0 ms
+dist=  42.8 cm | feature=0.2060 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.2% | 0 ms
+dist=  43.3 cm | feature=0.2086 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.2% | 0 ms
+dist=  43.7 cm | feature=0.2104 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.3% | 0 ms
+dist=  44.0 cm | feature=0.2123 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.3% | 0 ms
+dist=  44.3 cm | feature=0.2137 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.4% | 0 ms
+dist=  44.4 cm | feature=0.2140 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.4% | 0 ms
+dist=  44.6 cm | feature=0.2152 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.5% | 0 ms
+dist=  44.9 cm | feature=0.2167 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.5% | 0 ms
+dist=  45.2 cm | feature=0.2184 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  45.7 cm | feature=0.2205 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  46.2 cm | feature=0.2232 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  46.7 cm | feature=0.2256 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  47.1 cm | feature=0.2280 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  47.6 cm | feature=0.2303 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  48.1 cm | feature=0.2330 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  48.7 cm | feature=0.2357 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  49.1 cm | feature=0.2381 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  49.6 cm | feature=0.2405 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  50.1 cm | feature=0.2428 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  50.4 cm | feature=0.2446 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  50.7 cm | feature=0.2461 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  51.0 cm | feature=0.2477 | modelo=MEDIO ( 97%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  51.3 cm | feature=0.2492 | modelo=MEDIO ( 97%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  51.7 cm | feature=0.2509 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  52.0 cm | feature=0.2526 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  52.4 cm | feature=0.2543 | modelo=MEDIO ( 95%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  52.7 cm | feature=0.2561 | modelo=MEDIO ( 95%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  53.1 cm | feature=0.2579 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  53.4 cm | feature=0.2597 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  53.8 cm | feature=0.2615 | modelo=MEDIO ( 90%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  54.2 cm | feature=0.2636 | modelo=MEDIO ( 90%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  54.6 cm | feature=0.2655 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  55.0 cm | feature=0.2675 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  55.4 cm | feature=0.2698 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  55.8 cm | feature=0.2718 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  56.3 cm | feature=0.2743 | modelo=MEDIO ( 73%) | regra=MEDIO | OK   | concordancia=92.7% | 0 ms
+dist=  56.8 cm | feature=0.2769 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=92.7% | 0 ms
+dist=  57.4 cm | feature=0.2800 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  58.0 cm | feature=0.2827 | modelo=MEDIO ( 62%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  58.5 cm | feature=0.2856 | modelo=MEDIO ( 50%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  58.9 cm | feature=0.2875 | modelo=MEDIO ( 50%) | regra=MEDIO | OK   | concordancia=92.9% | 0 ms
+dist=  59.3 cm | feature=0.2895 | modelo=LONGE ( 56%) | regra=MEDIO | DIFF | concordancia=92.4% | 0 ms
+dist=  59.7 cm | feature=0.2913 | modelo=LONGE ( 62%) | regra=MEDIO | DIFF | concordancia=92.0% | 0 ms
+dist=  60.0 cm | feature=0.2930 | modelo=LONGE ( 62%) | regra=LONGE | OK   | concordancia=92.0% | 0 ms
+dist=  60.3 cm | feature=0.2944 | modelo=LONGE ( 62%) | regra=LONGE | OK   | concordancia=92.1% | 0 ms
+dist=  60.6 cm | feature=0.2961 | modelo=LONGE ( 73%) | regra=LONGE | OK   | concordancia=92.1% | 0 ms
+dist=  61.0 cm | feature=0.2977 | modelo=LONGE ( 73%) | regra=LONGE | OK   | concordancia=92.1% | 0 ms
+dist=  61.2 cm | feature=0.2988 | modelo=LONGE ( 73%) | regra=LONGE | OK   | concordancia=92.2% | 0 ms
+dist=  61.2 cm | feature=0.2991 | modelo=LONGE ( 82%) | regra=LONGE | OK   | concordancia=92.2% | 0 ms
+dist=  61.5 cm | feature=0.3007 | modelo=LONGE ( 82%) | regra=LONGE | OK   | concordancia=92.2% | 0 ms
+dist=  61.8 cm | feature=0.3021 | modelo=LONGE ( 82%) | regra=LONGE | OK   | concordancia=92.3% | 0 ms
+dist=  62.0 cm | feature=0.3031 | modelo=LONGE ( 85%) | regra=LONGE | OK   | concordancia=92.3% | 0 ms
+dist=  62.4 cm | feature=0.3049 | modelo=LONGE ( 85%) | regra=LONGE | OK   | concordancia=92.3% | 0 ms
+dist=  62.8 cm | feature=0.3071 | modelo=LONGE ( 88%) | regra=LONGE | OK   | concordancia=92.4% | 0 ms
+dist=  63.1 cm | feature=0.3085 | modelo=LONGE ( 88%) | regra=LONGE | OK   | concordancia=92.4% | 0 ms
+dist=  63.3 cm | feature=0.3096 | modelo=LONGE ( 88%) | regra=LONGE | OK   | concordancia=92.4% | 0 ms
+dist=  63.6 cm | feature=0.3111 | modelo=LONGE ( 94%) | regra=LONGE | OK   | concordancia=92.5% | 0 ms
+dist=  63.5 cm | feature=0.3107 | modelo=LONGE ( 94%) | regra=LONGE | OK   | concordancia=92.5% | 0 ms
+dist=  63.4 cm | feature=0.3101 | modelo=LONGE ( 88%) | regra=LONGE | OK   | concordancia=92.5% | 0 ms
+dist=  63.1 cm | feature=0.3085 | modelo=LONGE ( 88%) | regra=LONGE | OK   | concordancia=92.6% | 0 ms
+dist=  62.7 cm | feature=0.3067 | modelo=LONGE ( 88%) | regra=LONGE | OK   | concordancia=92.6% | 0 ms
+dist=  62.2 cm | feature=0.3040 | modelo=LONGE ( 85%) | regra=LONGE | OK   | concordancia=92.6% | 0 ms
+dist=  61.5 cm | feature=0.3007 | modelo=LONGE ( 82%) | regra=LONGE | OK   | concordancia=92.7% | 0 ms
+dist=  60.9 cm | feature=0.2977 | modelo=LONGE ( 73%) | regra=LONGE | OK   | concordancia=92.7% | 0 ms
+dist=  60.4 cm | feature=0.2951 | modelo=LONGE ( 62%) | regra=LONGE | OK   | concordancia=92.7% | 0 ms
+dist=  59.8 cm | feature=0.2922 | modelo=LONGE ( 62%) | regra=MEDIO | DIFF | concordancia=92.3% | 0 ms
+dist=  59.3 cm | feature=0.2895 | modelo=LONGE ( 56%) | regra=MEDIO | DIFF | concordancia=91.9% | 0 ms
+dist=  59.0 cm | feature=0.2880 | modelo=LONGE ( 56%) | regra=MEDIO | DIFF | concordancia=91.6% | 0 ms
+dist=  58.6 cm | feature=0.2860 | modelo=MEDIO ( 50%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  58.2 cm | feature=0.2837 | modelo=MEDIO ( 62%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  57.7 cm | feature=0.2814 | modelo=MEDIO ( 62%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  57.3 cm | feature=0.2795 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  56.8 cm | feature=0.2768 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  56.3 cm | feature=0.2744 | modelo=MEDIO ( 73%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  55.9 cm | feature=0.2721 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  55.4 cm | feature=0.2698 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  54.9 cm | feature=0.2672 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  54.4 cm | feature=0.2648 | modelo=MEDIO ( 90%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  54.0 cm | feature=0.2625 | modelo=MEDIO ( 90%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  53.4 cm | feature=0.2597 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  52.8 cm | feature=0.2567 | modelo=MEDIO ( 95%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  52.2 cm | feature=0.2536 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  51.7 cm | feature=0.2510 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  51.1 cm | feature=0.2480 | modelo=MEDIO ( 97%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  50.6 cm | feature=0.2457 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  50.2 cm | feature=0.2434 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  49.7 cm | feature=0.2411 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  49.2 cm | feature=0.2383 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  48.6 cm | feature=0.2355 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  48.0 cm | feature=0.2322 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  47.4 cm | feature=0.2293 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  46.8 cm | feature=0.2264 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  46.3 cm | feature=0.2236 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  45.7 cm | feature=0.2209 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  45.2 cm | feature=0.2181 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  44.7 cm | feature=0.2158 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  44.2 cm | feature=0.2131 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  43.7 cm | feature=0.2105 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  43.2 cm | feature=0.2081 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  42.7 cm | feature=0.2057 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  42.1 cm | feature=0.2023 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  41.4 cm | feature=0.1989 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  40.9 cm | feature=0.1963 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  40.2 cm | feature=0.1928 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.7% | 0 ms
+dist=  39.6 cm | feature=0.1899 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.7% | 0 ms
+dist=  39.1 cm | feature=0.1875 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.7% | 0 ms
+dist=  38.5 cm | feature=0.1845 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  37.9 cm | feature=0.1815 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  37.5 cm | feature=0.1794 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  36.7 cm | feature=0.1750 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.8% | 0 ms
+dist=  36.1 cm | feature=0.1720 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.9% | 0 ms
+dist=  35.7 cm | feature=0.1703 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.9% | 0 ms
+dist=  35.0 cm | feature=0.1665 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.9% | 0 ms
+dist=  34.4 cm | feature=0.1635 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.9% | 0 ms
+dist=  34.0 cm | feature=0.1618 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=93.0% | 0 ms
+dist=  33.4 cm | feature=0.1587 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=93.0% | 0 ms
+dist=  32.6 cm | feature=0.1547 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=93.0% | 0 ms
+dist=  31.9 cm | feature=0.1511 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=93.0% | 0 ms
+dist=  31.2 cm | feature=0.1472 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=93.1% | 0 ms
+dist=  30.6 cm | feature=0.1443 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=93.1% | 0 ms
+dist=  29.9 cm | feature=0.1408 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=93.1% | 0 ms
+dist=  29.4 cm | feature=0.1383 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=93.1% | 0 ms
+dist=  28.7 cm | feature=0.1347 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=93.2% | 0 ms
+dist=  27.9 cm | feature=0.1309 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=93.2% | 0 ms
+dist=  27.0 cm | feature=0.1264 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=93.2% | 0 ms
+dist=  26.4 cm | feature=0.1233 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=93.2% | 0 ms
+dist=  25.6 cm | feature=0.1194 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=93.2% | 0 ms
+dist=  25.2 cm | feature=0.1171 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=93.3% | 0 ms
+dist=  24.7 cm | feature=0.1147 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=93.3% | 0 ms
+dist=  24.4 cm | feature=0.1132 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=93.3% | 0 ms
+dist=  23.8 cm | feature=0.1102 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=93.3% | 0 ms
+dist=  23.4 cm | feature=0.1081 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=93.4% | 0 ms
+dist=  23.1 cm | feature=0.1064 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=93.4% | 0 ms
+dist=  22.5 cm | feature=0.1034 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=93.4% | 0 ms
+dist=  21.9 cm | feature=0.1005 | modelo=PERTO ( 50%) | regra=MEDIO | DIFF | concordancia=93.1% | 0 ms
+dist=  21.5 cm | feature=0.0984 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=92.8% | 0 ms
+dist=  21.0 cm | feature=0.0959 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=92.5% | 0 ms
+dist=  20.4 cm | feature=0.0930 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=92.2% | 0 ms
+dist=  20.0 cm | feature=0.0910 | modelo=PERTO ( 78%) | regra=MEDIO | DIFF | concordancia=91.9% | 0 ms
+dist=  19.6 cm | feature=0.0887 | modelo=PERTO ( 78%) | regra=PERTO | OK   | concordancia=91.9% | 0 ms
+dist=  19.1 cm | feature=0.0863 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=91.9% | 0 ms
+dist=  18.5 cm | feature=0.0835 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=92.0% | 0 ms
+dist=  18.0 cm | feature=0.0809 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=92.0% | 0 ms
+dist=  17.5 cm | feature=0.0782 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=92.0% | 0 ms
+dist=  17.0 cm | feature=0.0759 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=92.0% | 0 ms
+dist=  16.5 cm | feature=0.0731 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.1% | 0 ms
+dist=  16.0 cm | feature=0.0709 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.1% | 0 ms
+dist=  15.7 cm | feature=0.0692 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.1% | 0 ms
+dist=  15.3 cm | feature=0.0673 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.1% | 0 ms
+dist=  15.0 cm | feature=0.0658 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.2% | 0 ms
+dist=  14.8 cm | feature=0.0647 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.2% | 0 ms
+dist=  14.8 cm | feature=0.0645 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.2% | 0 ms
+dist=  14.9 cm | feature=0.0652 | modelo=PERTO ( 99%) | regra=PERTO | OK   | concordancia=92.2% | 0 ms
+dist=  15.3 cm | feature=0.0671 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.3% | 0 ms
+dist=  15.8 cm | feature=0.0697 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.3% | 0 ms
+dist=  16.5 cm | feature=0.0730 | modelo=PERTO ( 98%) | regra=PERTO | OK   | concordancia=92.3% | 0 ms
+dist=  17.1 cm | feature=0.0763 | modelo=PERTO ( 95%) | regra=PERTO | OK   | concordancia=92.3% | 0 ms
+dist=  17.7 cm | feature=0.0791 | modelo=PERTO ( 94%) | regra=PERTO | OK   | concordancia=92.4% | 0 ms
+dist=  18.3 cm | feature=0.0822 | modelo=PERTO ( 90%) | regra=PERTO | OK   | concordancia=92.4% | 0 ms
+dist=  18.9 cm | feature=0.0852 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=92.4% | 0 ms
+dist=  19.3 cm | feature=0.0876 | modelo=PERTO ( 85%) | regra=PERTO | OK   | concordancia=92.4% | 0 ms
+dist=  19.9 cm | feature=0.0905 | modelo=PERTO ( 78%) | regra=PERTO | OK   | concordancia=92.4% | 0 ms
+dist=  20.6 cm | feature=0.0939 | modelo=PERTO ( 68%) | regra=MEDIO | DIFF | concordancia=92.2% | 0 ms
+dist=  21.0 cm | feature=0.0961 | modelo=PERTO ( 62%) | regra=MEDIO | DIFF | concordancia=91.9% | 0 ms
+dist=  21.7 cm | feature=0.0997 | modelo=PERTO ( 50%) | regra=MEDIO | DIFF | concordancia=91.6% | 0 ms
+dist=  22.3 cm | feature=0.1024 | modelo=PERTO ( 50%) | regra=MEDIO | DIFF | concordancia=91.3% | 0 ms
+dist=  22.6 cm | feature=0.1042 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=91.4% | 0 ms
+dist=  23.3 cm | feature=0.1077 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=91.4% | 0 ms
+dist=  23.8 cm | feature=0.1102 | modelo=MEDIO ( 68%) | regra=MEDIO | OK   | concordancia=91.4% | 0 ms
+dist=  24.2 cm | feature=0.1122 | modelo=MEDIO ( 82%) | regra=MEDIO | OK   | concordancia=91.4% | 0 ms
+dist=  24.9 cm | feature=0.1159 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=91.5% | 0 ms
+dist=  25.4 cm | feature=0.1181 | modelo=MEDIO ( 88%) | regra=MEDIO | OK   | concordancia=91.5% | 0 ms
+dist=  25.5 cm | feature=0.1186 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=91.5% | 0 ms
+dist=  26.1 cm | feature=0.1215 | modelo=MEDIO ( 92%) | regra=MEDIO | OK   | concordancia=91.5% | 0 ms
+dist=  26.7 cm | feature=0.1247 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  26.8 cm | feature=0.1253 | modelo=MEDIO ( 94%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  27.2 cm | feature=0.1270 | modelo=MEDIO ( 96%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  27.7 cm | feature=0.1297 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=91.6% | 0 ms
+dist=  28.2 cm | feature=0.1321 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  28.0 cm | feature=0.1316 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  28.3 cm | feature=0.1330 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  28.8 cm | feature=0.1353 | modelo=MEDIO ( 98%) | regra=MEDIO | OK   | concordancia=91.7% | 0 ms
+dist=  29.3 cm | feature=0.1377 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  29.5 cm | feature=0.1389 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  30.1 cm | feature=0.1417 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  30.8 cm | feature=0.1454 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.8% | 0 ms
+dist=  31.3 cm | feature=0.1479 | modelo=MEDIO ( 99%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  31.6 cm | feature=0.1496 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  32.1 cm | feature=0.1520 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  32.6 cm | feature=0.1545 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  32.9 cm | feature=0.1563 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=91.9% | 0 ms
+dist=  33.4 cm | feature=0.1588 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  33.8 cm | feature=0.1608 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  34.2 cm | feature=0.1625 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  34.6 cm | feature=0.1644 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.0% | 0 ms
+dist=  35.0 cm | feature=0.1667 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  35.4 cm | feature=0.1689 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  35.8 cm | feature=0.1708 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  36.3 cm | feature=0.1731 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  36.7 cm | feature=0.1751 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.1% | 0 ms
+dist=  37.0 cm | feature=0.1770 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  37.4 cm | feature=0.1789 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  37.8 cm | feature=0.1808 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  38.3 cm | feature=0.1831 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  38.6 cm | feature=0.1848 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.2% | 0 ms
+dist=  38.9 cm | feature=0.1864 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  39.3 cm | feature=0.1883 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  39.5 cm | feature=0.1896 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  39.8 cm | feature=0.1909 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  40.1 cm | feature=0.1927 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.3% | 0 ms
+dist=  40.6 cm | feature=0.1949 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  40.8 cm | feature=0.1961 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  41.3 cm | feature=0.1982 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  41.6 cm | feature=0.1998 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  41.9 cm | feature=0.2013 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.4% | 0 ms
+dist=  42.1 cm | feature=0.2024 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  42.4 cm | feature=0.2040 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  42.6 cm | feature=0.2050 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  42.8 cm | feature=0.2061 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  43.1 cm | feature=0.2075 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.5% | 0 ms
+dist=  43.3 cm | feature=0.2085 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  43.5 cm | feature=0.2094 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  43.8 cm | feature=0.2112 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  44.0 cm | feature=0.2124 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  44.3 cm | feature=0.2134 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.6% | 0 ms
+dist=  44.6 cm | feature=0.2153 | modelo=MEDIO (100%) | regra=MEDIO | OK   | concordancia=92.7% | 0 ms
